@@ -1,0 +1,171 @@
+@font-face {
+	font-family: 'gotham';
+	src: url('gotham.otf');
+
+}
+
+@font-face {
+	font-family: 'gothamitalic';
+	src: url('gothamitalic.otf');
+
+}
+
+@font-face {
+	font-family: 'gothamlight';
+	src: url('gothamlight.otf');
+
+}
+
+body {
+	background-image: url(bg.jpg);
+}
+
+label  {
+	font-family: gotham;
+	font-size: 12pt;
+}
+
+.collapse{
+	font-size: 15pt;
+	color: #fff;
+	
+}
+
+.bemvindo{
+	width: 730px;
+    height: 650px;
+    padding-left: 6%;
+    margin: 30px auto 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 2px 3px 0 rgba(0,0,0,.10);
+
+}
+
+.arquivo{
+	width: 900px;
+    height: 650px;
+    margin: 30px auto 0;
+    padding-right: 2%;
+    padding-left: 1%;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 2px 3px 0 rgba(0,0,0,.10); 
+}
+
+
+.adicionar {
+	width: 800px;
+    height: 700px;
+    margin: 30px auto 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 1px 2px 3px 0 rgba(0,0,0,.10);
+
+}
+
+.enviar {
+	width: 850px;
+    height: 630px;
+    margin: 30px auto 0;
+    padding-left: 7%;
+    padding-top: 2%;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 1px 2px 3px 0 rgba(0,0,0,.10);
+
+}
+
+select {
+	border: 20px;
+	font-family: gotham;
+	font-size: 7pt;
+}
+
+button {
+	font-family: gotham;
+}
+
+input {
+	font-family: gothamlight;
+}
+
+#sim {
+	font-family: gotham;
+}
+
+
+#icon {
+	font-family: gothamitalic;
+	font-size: 35px;
+
+}
+
+
+footer {
+	font-family: gotham;
+	color: #696969;
+	font-family: gotham;
+	margin-top: 40px;
+	position: absolute;
+	
+}
+
+footer.f1 {
+	margin-top: 243px;
+	position: absolute;
+}
+
+footer p {
+	display: inline-block;
+	width: 280px;
+	text-align: center;
+}
+
+
+tr {
+	font-family: gotham;
+}
+
+a {
+	font-family: gotham;
+}
+
+.suporte {
+	background-color: #fff;
+	padding-left: 4%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-left: 16%;
+	margin-right: 16%;
+	margin-top: 2%;
+	border-radius: 10px;
+
+}
+
+.title {
+	font-size: 30px;
+}	
+
+.subtitulo {
+	font-family: gotham;
+	padding-left: 3%;
+	font-size: 18px;
+	color: #696969;
+}
+
+.corpo {
+	font-family: gotham;
+	padding-left: 5%;
+	color: #696969;
+}
+
+.texto {
+	font-family: gotham;
+	padding-left: 4%;
+	color: #696969;
+}

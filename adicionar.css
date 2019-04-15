@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'gotham';
+	src: url('gotham.otf');
+
+}
+
+
+label  {
+	font-family: gotham;
+	font-size: 12pt;
+	color: #696969;
+}
+
+
+.collapse{
+	font-family: gotham;
+	color: #FFFFFF;
+	font-size: 14pt;
+	
+}
+
+
+
+.container-fluid{
+	width: 800px;
+    height: 680px;
+    margin: 30px auto 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 1px 2px 3px 0 rgba(0,0,0,.10);
+
+}
+
+button {
+	margin-top: 2%;
+	font-family: gotham;
+	font-size: 3pt;
+
+}
+
+select {
+	border: 20px;
+	font-family: gotham;
+	font-size: 7pt;
+}
+

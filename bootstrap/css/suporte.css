@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'colabthi';
+	url: ("../fonts/colabthi.jpg");
+}
+
+
+body {
+	background-image: url("bg.jpg");
+}
+
+
+.card {
+	width: 90%;
+	margin: 2%;
+	margin-left: 8%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+
+}
+
+.loginTitle {
+	margin-top: -5%;
+
+}

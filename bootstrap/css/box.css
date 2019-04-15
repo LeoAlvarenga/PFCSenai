@@ -1,0 +1,20 @@
+.box{
+	margin: 0 auto;
+	width: 100%;
+	
+}
+
+.box p{
+	font-size: 15px;
+	font-weight: bold;
+}
+.centralizar{
+	margin: 0 auto;
+}
+.centralizar input{
+	padding: 8px;
+	border-radius: 5px;
+}
+.box button{
+	margin-top: 20px;
+}

@@ -1,0 +1,118 @@
+﻿Gleiciane Vieira - 04/09
+ Criada a página de configuração;
+ Campo busca adicionado nas páginas excluir e editar;
+
+
+Gleiciane Vieira - 05/09
+ Alteraçãoo provisória da cor de background, botões do sistema e formato das tabelas; 
+ Checkbox adicionado na página "cadastrarfuncionário.php";
+Alteração nas fontes;
+
+Leonardo Alvarenga - 10/09
+    Implementação das funções de busca na tela de editar arquivos;
+    adicionado o nome de usuario e verificação de login nas paginas de gerenciar e configurações;
+
+Gleiciane Vieira - 11/09
+ Ateração da cor das tabelas;
+ Checkbox incluído na tela de cadastro de funcionários.
+
+Leonardo Alvarenga - 13/09
+    Implementação da função excluir na página de configuração;
+    Implementação de confirmação no botão excluir da página de configuração;
+    Implementação de confirmação no botão excluir da página de gerenciar;
+
+Leonardo Alvarenga - 14/08
+    Implementação da função de cadastro de usuários, e checagem de usuário pré-existente;
+
+Leonardo Alvarenga - 16/09
+    Implementaçãoda função Editar documento;
+    Criação da tela de edição;
+    Modificação do titulo da tela de login;
+
+Wagner Oliveira - 26/09
+	Alinhamento do formulário da página pesquisar;
+	Alinhamento do formulário da página adicionar;
+	Alinhamento dos campos da página editar;
+	Alinhamento dos campos da página excluir;
+	Redimesionamento das tabelas;
+	Inseção do incone no botão sair.	
+
+Leonardo Alvarenga - 09/10
+    Implementação do POO;
+    Adição das classes usuario, administrador e Arquivo;
+    Criação dos metodos de adicionar e excluir usuarios, adicionar documento, pesquisar documento, Login e Logout;
+
+Aline Medrado - 18/10
+	Alteração na interface;
+
+Wagner Oliveira - 19/10/2018
+	Implementação do botão dropdown em todas as telas;
+	Modificação da tela gerenciar/documento;
+	Inserção dos botões Adicionar, editar e excluir na tela documento;
+	Inseção do link na sigla (NDI), direcionando para o incio do sistema (bemvindo.php);
+	Alinhamento do formulário de cadastro de funcionário;
+	Ateração da caixa do checkbox para radio;
+	Inserção da caixa de dialogo ao clicar em excluir, na tela documento.
+	
+Gleiciane Vieira - 20/10
+	Alteração nas cores das tabelas das páginas (configuracao.php; excluir.php; documento.php).
+
+
+Wagner Oliveira - 22/10
+	Atribuição de permição de usuário nas telas de Funcionário e Documento;
+	Inseri a funcionalidade do botão Adicionar na tela Excluir;
+	Estilização e alinhamento da tabela na tela de pesquisa;
+	Estilização da tabela na tela de pesquisa;
+	Estilização da tabela na tela de funcionário/configuração;
+
+Aline Medrado - 25/10
+	Inserção do modal;
+	
+Gleiciane Vieira - 29/10
+	Modificação das tabelas;
+	Alteração do tamanho dos inputs;
+
+Aline Medrado - 29/10
+	Inserção do logotipo;
+
+Gleiciane Vieira - 30/10
+	Ajuste do botão pesquisar;
+	Inserção do rodapé em todas as páginas;
+
+Wagner Oliveira 30/10
+	Inserção do campo RG, na tela bemvindo.php;
+	Inserção do hover nas tabelas;
+	Titulo em todos os botões;
+	Ajuste na mensagem de excluir;
+	Ajuste na mensagem de Editar/Salvar;
+	Ajuste do botão Enviar, na tela pesquisar.php
+	
+Leonardo Alvarenga 31/10
+	Implementação de novos métodos na classe administrador;
+	Alteração do Banco de Dados;
+	
+Aline Medrado 14/11
+	Inserção da página enviar dados para o email;
+	Alteração da página de suporte;
+
+Leonardo Alvarenga 18/11
+	Correção do sistema de pesquisa;
+	Implementação do RG no PHP;
+	Implementação da função editar documento;
+	Implementação da função excluir documento;
+	
+Leonardo Alvarenga 24/11
+	Correção do sistema de editar Documento;
+	Manutenção do Banco de Dados;
+
+Wagner Oliveira 25/11
+	Inserção do campo e-mail na tela configuração.php;
+	Inserção do botão editar na tela configuração.php;
+	Inserçaõ de uma nova página, "editarfuncionario.php".	
+
+Leonardo Alvarenga 25/11
+	Implementação da função editar funcionário;
+
+Leonardo Alvarenga 17/12
+	Implementação do campo editar senha;
+	Alteração nos select option;
